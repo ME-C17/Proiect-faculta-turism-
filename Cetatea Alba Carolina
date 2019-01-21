@@ -143,4 +143,33 @@
    	</div> <!-- end about-wrap  -->
 
    </section> <!-- end about -->
+  <section id="portfolio">
+   	
+   	<div class="intro-wrap">
 
+   		<div class="row narrow section-intro with-bottom-sep animate-this">
+	   		<div class="col-twelve">
+		   		<h1>Locatii frumoase de descoperit</h1>  			   			
+	   		</div>   		
+	   	</div> <!-- end row section-intro -->   		
+
+   	</div> <!-- end intro-wrap -->   	
+
+   	<div class="row portfolio-content">
+   		<div class="col-twelve">
+   			<div id="folio-wrap" class="bricks-wrapper">					
+
+   				<div class="brick folio-item">
+	               <div class="item-wrap animate-this" data-src="images/portfolio/gallery/biserica2.jpg">
+	                  <a href="#" class="overlay">
+	                  	<img src="images/portfolio/biserica.jpg" alt="Bierică">    
+	                     <div class="item-text">
+	                     	<span class="folio-types">
+		     					   </span>
+		     					   <h3 class="folio-title">Biserică</h3>	     					   
+		     					</div>                                        
+	                  </a>
+	                  <a href="https://www.behance.net/" class='details-link' title="details">
+	                  	<i class="icon-link"></i>
+	                  </a>
+	               </div> <!-- end item-wrap -->
