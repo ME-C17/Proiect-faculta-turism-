@@ -233,3 +233,27 @@
 	                  	<i class="icon-link"></i>
 	                  </a>
 	               </div> <!-- end item-wrap -->
+		         <div id="04" class='hide'>
+							<h4>Imagini fortificații</h4>
+						</div>  	               
+	        		</div> <!-- end folio-item -->
+
+					<div class="brick folio-item">
+	               <div class="item-wrap animate-this"  data-src="images/portfolio/gallery/poarta.jpg"  >  	
+	                  <a href="#" class="overlay">
+	                  	<img src="images/portfolio/poarta.jpg" alt="Poartă">	                     
+	                     <div class="item-text">	     					    
+		     					   <span class="folio-types">
+		     					   </span>
+		     					   <h3 class="folio-title">Fortificații</h3>
+		     					</div>                                        
+	                  </a>
+	                  <a href="https://www.behance.net/" class='details-link' title="details">
+	                  	<i class="icon-link"></i>
+	                  </a>
+	               </div> <!-- end item-wrap -->
+
+	               <div id="05" class='hide'>
+							<h4>Imagini fortificații</h4>
+						</div>	               
+	        		</div> <!-- end folio-item -->
