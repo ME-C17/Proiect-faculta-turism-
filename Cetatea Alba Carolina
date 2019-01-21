@@ -173,3 +173,28 @@
 	                  	<i class="icon-link"></i>
 	                  </a>
 	               </div> <!-- end item-wrap -->
+		       
+						<div id="01" class='hide'>
+							<h4>Imagini biserică</h4>
+						</div>
+	        		</div> <!-- end folio-item -->
+
+	        		<div class="brick folio-item">
+	               <div class="item-wrap animate-this" data-src="images/portfolio/gallery/Catedrala1.jpg" > 	
+	                  <a href="#" class="overlay">
+	                  	<img src="images/portfolio/Capitala.jpg" alt="Catedrală">	                     
+	                     <div class="item-text">
+	                     	<span class="folio-types">
+		     					   </span>
+		     					   <h3 class="folio-title">Catedrală</h3>  	     					   
+		     					</div>                                        
+	                  </a>
+	                  <a href="https://www.behance.net/" class='details-link' title="details">
+	                  	<i class="icon-link"></i>
+	                  </a>
+	               </div> <!-- end item-wrap -->
+
+	               <div id="02" class='hide'>
+							<h4>Imagini catedrala</h4>
+						</div>	               
+	        		</div> <!-- end folio-item -->
