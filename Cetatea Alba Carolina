@@ -32,3 +32,48 @@
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 
 </head>
+
+<body id="top">
+
+	<!-- header 
+   ================================================== -->
+   <header> 
+	
+   	<div class="header-logo">
+	      <a href="index.html">Cetatea Alba Carolina</a>
+	   </div> 
+
+		<a id="header-menu-trigger" href="#0">
+		 	<span class="header-menu-text">Meniu</span>
+		  	<span class="header-menu-icon"></span>
+		</a> 
+
+		<nav id="menu-nav-wrap">
+
+			<a href="#0" class="close-button" title="close"><span>Close</span></a>	
+
+	   	<h3>Cetatea Alba Carolina</h3>  
+
+			<ul class="nav-list">
+				<li class="current"><a class="smoothscroll" href="#home" title="">Acasă</a></li>
+				<li><a class="smoothscroll" href="#about" title="">Despre noi</a></li>
+				<li><a class="smoothscroll" href="#contact" title="">Contact</a></li>						
+			</ul>	
+		
+
+			<ul class="header-social-list">
+	         <li>
+	         	<a href="https://www.facebook.com/emanuel.j.mogosan"><i class="fa fa-facebook-square"></i></a>
+	         </li>
+	         <li>
+	         	<a href="#"><i class="fa fa-twitter"></i></a>
+	         </li>
+	         <li>
+	         	<a href="#"><i class="fa fa-instagram"></i></a>
+	         </li>
+	      </ul>		
+
+		</nav>  <!-- end #menu-nav-wrap -->
+
+
+	</header> <!-- end header -->  
