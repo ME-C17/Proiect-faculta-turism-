@@ -213,3 +213,23 @@
 	                  	<i class="icon-link"></i>
 	                  </a>
 	               </div> <!-- end item-wrap -->	
+		       
+	               <div id="03" class='hide'>
+							<h4>Imagini obelisc</h4>
+						</div>               
+	        		</div> <!-- end folio-item -->
+
+					<div class="brick folio-item">
+	               <div class="item-wrap animate-this"  data-src="images/portfolio/gallery/obelisc.jpg"   >
+	                  <a href="#" class="overlay">
+	                  	<img src="images/portfolio/obelisk.jpg" alt="Obelisc">	                     
+	                     <div class="item-text">	     					    
+		     					   <span class="folio-types">
+		     					   </span>
+		     					   <h3 class="folio-title">Obelisc</h3>
+		     					</div>                                        
+	                  </a>
+	                  <a href="https://www.behance.net/" class='details-link' title="details">
+	                  	<i class="icon-link"></i>
+	                  </a>
+	               </div> <!-- end item-wrap -->
