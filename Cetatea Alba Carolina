@@ -123,3 +123,24 @@
 		</div>			
    
    </section> <!-- end home -->
+   
+   <!-- about
+   ================================================== -->
+   <section id="about">
+
+   	<div class="row about-wrap">
+   		<div class="col-full">
+
+   			<div class="about-profile-bg"></div>
+
+				<div class="intro">
+					<h3 class="animate-this">Despre noi</h3>
+	   			<p>Cetatea Alba Carolina este o fortăreață cu bastioane de tip Vauban construită la începutul secolului al XVIII-lea în orașul medieval Alba Iulia pe Dealul Citadelei, 
+				având rol de fortificație strategică de apărare a Imperiului Habsburgic împotriva eforturilor militare ale Imperiului Otoman și de consolidare a puterii habsburgice pe plan local.</p>	
+				</div>   
+
+   		</div> <!-- end col-full  -->
+   	</div> <!-- end about-wrap  -->
+
+   </section> <!-- end about -->
+
