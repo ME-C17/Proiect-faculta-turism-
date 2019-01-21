@@ -115,4 +115,11 @@
 	      <li class="animate-intro">
 	        	<a href="#"><i class="fa fa-instagram"></i></a>
 	      </li>     
-	   </ul> <!-- 
+	   </ul> <!-- <div class="scrolldown">
+			<a href="#about" class="scroll-icon smoothscroll">		
+		   	Derulează in jos		   	
+		   	<i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+			</a>
+		</div>			
+   
+   </section> <!-- end home -->
